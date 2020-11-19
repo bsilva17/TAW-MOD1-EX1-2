@@ -1,0 +1,127 @@
+[2020-04-08 21:56:46.052] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::381::Helper process started
+[2020-04-08 21:56:46.059] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::390:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-04-08 21:56:46.059] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::494::Sending bench ping: startup.crash_reporting.failed
+[2020-04-08 21:56:46.345] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::494::Sending bench ping: startup.launched
+[2020-04-08 21:56:46.446] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::494::Sending bench ping: startup.ledger_init
+[2020-04-08 21:56:46.447] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::494::Sending bench ping: cfu.helper.445
+[2020-04-08 21:56:46.447] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::627::Running io_context
+[2020-04-08 21:56:46.447] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::494::Sending bench ping: startup.enter_event_loop
+[2020-04-08 21:56:46.448] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::494::Sending bench ping: bt_con.handshake
+[2020-04-08 21:56:49.836] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-04-08 21:56:49.841] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-04-08 21:56:49.841] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.crash_reporting.failed
+[2020-04-08 21:56:55.935] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.launched
+[2020-04-08 21:56:56.257] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.ledger_init
+[2020-04-08 21:56:56.258] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: cfu.helper.535
+[2020-04-08 21:56:56.259] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.enter_event_loop
+[2020-04-08 21:56:56.259] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::667::Running io_context
+[2020-04-08 21:56:56.259] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bt_con.handshake
+[2020-04-08 21:56:56.732] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: ledger.confirm_balance
+[2020-04-08 21:56:56.732] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::673::ledger_confirm_bal
+[2020-04-08 22:56:56.223] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bidders_report
+[2020-04-08 23:56:56.206] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bidders_report
+[2020-04-09 00:56:56.206] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bidders_report
+[2020-04-09 01:56:56.189] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bidders_report
+[2020-04-09 02:56:56.205] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bidders_report
+[2020-04-29 14:09:54.819] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-04-29 14:09:54.821] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-04-29 14:09:54.821] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.crash_reporting.failed
+[2020-04-29 14:09:55.263] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.launched
+[2020-04-29 14:09:55.378] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.ledger_init
+[2020-04-29 14:09:57.396] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bt_con.failed
+[2020-04-29 14:09:57.396] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::586::couldn't connect to torrent process: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente Exiting!
+[2020-05-13 00:05:50.124] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-05-13 00:05:50.126] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-05-13 00:05:50.127] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.crash_reporting.failed
+[2020-05-13 00:05:51.570] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.launched
+[2020-05-13 00:05:51.701] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.ledger_init
+[2020-05-13 00:05:51.702] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: cfu.helper.535
+[2020-05-13 00:05:51.702] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::667::Running io_context
+[2020-05-13 00:05:51.702] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: startup.enter_event_loop
+[2020-05-13 00:05:51.703] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: bt_con.handshake
+[2020-05-13 00:05:52.376] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::506::Sending bench ping: ledger.confirm_balance
+[2020-05-13 00:05:52.376] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::673::ledger_confirm_bal
+[2020-06-01 00:26:31.616] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-06-01 00:26:31.617] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-06-01 00:26:31.617] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.crash_reporting.failed
+[2020-06-01 00:26:32.926] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.launched
+[2020-06-01 00:26:33.057] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.ledger_init
+[2020-06-01 00:26:35.068] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: bt_con.failed
+[2020-06-01 00:26:35.069] [logger] [error] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::586::couldn't connect to torrent process: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente Exiting!
+[2020-06-01 00:27:16.317] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-06-01 00:27:16.326] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-06-01 00:27:16.326] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.crash_reporting.failed
+[2020-06-01 00:27:16.613] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.launched
+[2020-06-01 00:27:16.787] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.ledger_init
+[2020-06-01 00:27:16.788] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: cfu.helper.605
+[2020-06-01 00:27:16.789] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.enter_event_loop
+[2020-06-01 00:27:16.789] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::667::Running io_context
+[2020-06-01 00:27:17.065] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: bt_con.handshake
+[2020-06-01 00:27:19.017] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: ledger.confirm_balance
+[2020-06-01 00:27:19.017] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::673::ledger_confirm_bal
+[2020-06-18 14:22:31.644] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-06-18 14:22:31.647] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-06-18 14:22:31.647] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.crash_reporting.failed
+[2020-06-18 14:22:34.202] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.launched
+[2020-06-18 14:22:34.472] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.ledger_init
+[2020-06-18 14:22:34.479] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: cfu.helper.678
+[2020-06-18 14:22:34.481] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::668::Running io_context
+[2020-06-18 14:22:34.482] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: bt_con.handshake
+[2020-06-18 14:22:34.485] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.enter_event_loop
+[2020-06-18 14:22:35.863] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: ledger.confirm_balance
+[2020-06-18 14:22:35.863] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::673::ledger_confirm_bal
+[2020-06-23 10:06:06.518] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-06-23 10:06:06.522] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.crash_reporting.failed
+[2020-06-23 10:06:06.524] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-06-23 10:06:10.218] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.launched
+[2020-06-23 10:06:10.448] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.ledger_init
+[2020-06-23 10:06:10.458] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: cfu.helper.887
+[2020-06-23 10:06:10.459] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::668::Running io_context
+[2020-06-23 10:06:10.459] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.enter_event_loop
+[2020-06-23 10:06:10.461] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: bt_con.handshake
+[2020-06-23 10:06:15.177] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: ledger.confirm_balance
+[2020-06-23 10:06:15.177] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::713::ledger_confirm_bal
+[2020-07-02 13:38:23.854] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-07-02 13:38:23.858] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-07-02 13:38:23.859] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.crash_reporting.failed
+[2020-07-02 13:38:26.898] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.launched
+[2020-07-02 13:38:27.147] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.ledger_init
+[2020-07-02 13:38:27.166] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: cfu.helper.906
+[2020-07-02 13:38:27.254] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::668::Running io_context
+[2020-07-02 13:38:27.254] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.enter_event_loop
+[2020-07-02 13:38:27.257] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: bt_con.handshake
+[2020-08-12 20:21:53.152] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::419::Helper process started
+[2020-08-12 20:21:53.155] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::428:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-08-12 20:21:53.155] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.crash_reporting.failed
+[2020-08-12 20:21:53.961] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.launched
+[2020-08-12 20:21:54.148] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.ledger_init
+[2020-08-12 20:21:54.154] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: cfu.helper.936
+[2020-08-12 20:21:54.154] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::668::Running io_context
+[2020-08-12 20:21:54.155] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: startup.enter_event_loop
+[2020-08-12 20:21:54.155] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: bt_con.handshake
+[2020-08-12 20:21:57.980] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::510::Sending bench ping: ledger.confirm_balance
+[2020-08-12 20:21:57.980] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::713::ledger_confirm_bal
+[2020-09-23 15:47:05.978] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::246::Helper process started
+[2020-09-23 15:47:05.986] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::255:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-09-23 15:47:05.988] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.crash_reporting.failed
+[2020-09-23 15:47:06.259] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-09-23 15:47:06.435] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-09-23 15:47:06.445] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1019
+[2020-09-23 15:47:06.446] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::449::Running io_context
+[2020-09-23 15:47:06.446] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-09-23 15:47:06.449] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-09-23 15:47:07.441] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-09-23 15:47:07.441] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::713::ledger_confirm_bal
+[2020-09-30 16:39:43.815] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::246::Helper process started
+[2020-09-30 16:39:43.817] [logger] [critical] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::255:: Setting up of Crashdumping failed Can't initialize crash reporting
+[2020-09-30 16:39:43.817] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.crash_reporting.failed
+[2020-09-30 16:39:44.065] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.launched
+[2020-09-30 16:39:44.179] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.ledger_init
+[2020-09-30 16:39:44.188] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: cfu.helper.1150
+[2020-09-30 16:39:44.188] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\main.cpp::449::Running io_context
+[2020-09-30 16:39:44.188] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: startup.enter_event_loop
+[2020-09-30 16:39:44.189] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: bt_con.handshake
+[2020-09-30 16:39:45.131] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\analytics_ping.cpp::511::Sending bench ping: ledger.confirm_balance
+[2020-09-30 16:39:45.131] [logger] [info] x:\jenkins-workspace\workspace\token-wallet-pipeline\src\ledger.cpp::754::ledger_confirm_bal

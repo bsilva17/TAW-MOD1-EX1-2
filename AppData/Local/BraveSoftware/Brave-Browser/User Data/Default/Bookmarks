@@ -1,0 +1,262 @@
+{
+   "checksum": "8a2aa9fd56cfaa9f345372c7aaf09c01",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13076866128000000",
+            "guid": "4fda2055-1468-4c35-b3fc-63ba1b95558f",
+            "id": "5",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13032222978000000",
+            "guid": "8f5e7776-60e9-4df0-87f0-0c42298e782a",
+            "id": "6",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.pt/"
+         }, {
+            "date_added": "12972860754000000",
+            "guid": "e98af69d-2b5c-4bf6-ad8e-b885863204b5",
+            "id": "7",
+            "name": "bruno",
+            "type": "url",
+            "url": "http://www.firstrowsports.eu/"
+         }, {
+            "date_added": "13057622757000000",
+            "guid": "b7d33e77-eeba-4287-a24e-08d1d3e347d7",
+            "id": "8",
+            "name": "Gmail: E-mail do Google",
+            "type": "url",
+            "url": "https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/ca/&ss=1&scc=1&ltmpl=default&ltmplcache=2"
+         }, {
+            "date_added": "13062207304000000",
+            "guid": "4de772a6-70a6-47d6-a81a-74c86bc9caca",
+            "id": "9",
+            "name": "15 sites incrívelmente úteis que tu (provavelmente) desconhecias | Listas de cenas",
+            "type": "url",
+            "url": "http://listasdecenas.com/?p=218"
+         }, {
+            "date_added": "13151287505000000",
+            "guid": "cfc854a6-952e-4e84-b2d1-ef703d559942",
+            "id": "10",
+            "name": "Live NBA Streaming Online | Watch Basketball Online",
+            "type": "url",
+            "url": "https://www.vipbox.bz/basketball"
+         }, {
+            "date_added": "13157417560000000",
+            "guid": "d51e3b70-675f-4fa6-8c6a-e5f1e95ff01f",
+            "id": "11",
+            "name": "Publicado Hoje | Aposta Ganha",
+            "type": "url",
+            "url": "https://www.apostaganha.com/publicado-hoje/"
+         }, {
+            "date_added": "13166747501000000",
+            "guid": "3ea38ff5-c619-4331-b165-fa50ad968ba7",
+            "id": "12",
+            "name": "Hyuuga Downloads :: Animes e Mangás para Download em MP4 e MKV",
+            "type": "url",
+            "url": "http://hyuugadownloads.com.br/filtro?cat=Legendados"
+         }, {
+            "date_added": "13181775511000000",
+            "guid": "bfd2576e-adaf-4e11-8d63-ed4e45ffa170",
+            "id": "13",
+            "name": "Top 10 melhores sites para assistir futebol online - Sites que não travam",
+            "type": "url",
+            "url": "http://futebolnoplaneta.com.br/2017/12/13/assistir-futebol/"
+         }, {
+            "date_added": "13184887956000000",
+            "guid": "cb864420-b0e0-4a73-babd-e9def790e4cc",
+            "id": "14",
+            "name": "topstreamer (u/topstreamer) - Reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/user/topstreamer"
+         }, {
+            "date_added": "13206655453000000",
+            "guid": "e49e6946-2f1e-46ea-a40e-3f9b03db5bf1",
+            "id": "15",
+            "name": "[Guia] Como conquistar todos os troféus de Sekiro: Shadows Die Twice",
+            "type": "url",
+            "url": "https://www.meups4.com.br/especiais/guia-como-conquistar-todos-os-trofeus-de-sekiro-shadows-die-twice/"
+         }, {
+            "date_added": "13206655464000000",
+            "guid": "4f4137d0-3540-4c4d-9d16-626c1b603eb4",
+            "id": "16",
+            "name": "Headless | Sekiro Shadows Die Twice Wiki",
+            "type": "url",
+            "url": "https://sekiroshadowsdietwice.wiki.fextralife.com/Headless"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "12905192208000000",
+                     "guid": "8e0e4ff8-eef6-474b-97c4-1d6bd6560cea",
+                     "id": "20",
+                     "name": "Bem-vindo ao IE7",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkId=68919"
+                  }, {
+                     "date_added": "12905192208000000",
+                     "guid": "2a145313-2194-4c08-8205-b364fd83c719",
+                     "id": "21",
+                     "name": "Marketplace",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkId=72411"
+                  }, {
+                     "date_added": "12905192208000000",
+                     "guid": "5f019a52-6d74-466d-a0ff-ca31981b26db",
+                     "id": "22",
+                     "name": "Site do IE em Microsoft.com",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkId=72186"
+                  }, {
+                     "date_added": "13139098706000000",
+                     "guid": "cc929b68-d342-4971-8821-49950522bf4b",
+                     "id": "23",
+                     "name": "DS Assiste me Caguei com as Mortes Cabulosas de Higurashi - React - Anime United",
+                     "type": "url",
+                     "url": "https://www.animeunited.com.br/videos/ds-assiste-caguei-com-mortes-cabulosas-de-higurashi-react-anime-united/"
+                  } ],
+                  "date_added": "13236874339798357",
+                  "date_modified": "0",
+                  "guid": "d769ffb9-7f4f-4343-8367-8cc0651f0785",
+                  "id": "19",
+                  "name": "Microsoft Websites",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "12905192208000000",
+                     "guid": "63bbeae2-e9b6-4469-be1c-569fccb217b8",
+                     "id": "25",
+                     "name": "Get Windows Live",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkId=72700"
+                  }, {
+                     "date_added": "12905192208000000",
+                     "guid": "1193ecd2-10eb-44e8-8681-2ecf3dfe3690",
+                     "id": "26",
+                     "name": "Windows Live Gallery",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkID=70742"
+                  }, {
+                     "date_added": "12905192208000000",
+                     "guid": "c7833c41-5861-48f4-9988-99bfd71abd4e",
+                     "id": "27",
+                     "name": "Windows Live Mail",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkId=72681"
+                  }, {
+                     "date_added": "12905192208000000",
+                     "guid": "e44a39f7-2f32-45f6-bd5f-578117ea47cf",
+                     "id": "28",
+                     "name": "Windows Live Spaces",
+                     "type": "url",
+                     "url": "http://go.microsoft.com/fwlink/?LinkId=72682"
+                  }, {
+                     "date_added": "13069527145000000",
+                     "guid": "d2f7a735-8e99-4e65-9233-8625b1d3a07f",
+                     "id": "29",
+                     "name": "(sem assunto) - bbrunofilipe@gmail.com - Gmail",
+                     "type": "url",
+                     "url": "https://mail.google.com/mail/u/0/?tab=wm&pli=1#inbox/14bcbb6481103d7a"
+                  }, {
+                     "date_added": "13217475206000000",
+                     "guid": "e8398ac0-a8f4-4c88-a9bf-cacd2475d06c",
+                     "id": "30",
+                     "name": "binoss - FIFA 20 Squad - Futhead",
+                     "type": "url",
+                     "url": "https://www.futhead.com/20/squads/143955/"
+                  } ],
+                  "date_added": "13236874339798547",
+                  "date_modified": "0",
+                  "guid": "74fc4d0f-0ac3-4b06-b571-8c5ab7ec747a",
+                  "id": "24",
+                  "name": "Windows Live",
+                  "type": "folder"
+               }, {
+                  "date_added": "13239335493466804",
+                  "guid": "7512aa77-0f28-48fb-9ae5-4ac9b4f03c03",
+                  "id": "32",
+                  "name": "Assistir Black Clover – Episódio 134 - Online em FHD",
+                  "type": "url",
+                  "url": "https://yayanimes.net/black-clover-episodio-134/"
+               } ],
+               "date_added": "13236874339798351",
+               "date_modified": "13239335507707039",
+               "guid": "59e75b79-14d1-4d0a-8e19-084373a3c45d",
+               "id": "18",
+               "name": "Outros marcadores",
+               "type": "folder"
+            } ],
+            "date_added": "13236874339798345",
+            "date_modified": "13236874339798346",
+            "guid": "18b29948-a1a7-42dc-ba29-e38127367d18",
+            "id": "17",
+            "name": "Imported from Chrome",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13239335507707039",
+               "guid": "72764b12-d51e-4a80-9e09-107a62c44578",
+               "id": "33",
+               "name": "Yay Animes - Assistir Animes Online FHD!",
+               "type": "url",
+               "url": "https://yayanimes.net/"
+            }, {
+               "date_added": "13239336320118744",
+               "guid": "d36129ea-84b7-4e4f-b7c1-3b09b0be3b61",
+               "id": "35",
+               "name": "Koi to Producer: EVOL×LOVE - 1 - Anihub",
+               "type": "url",
+               "url": "https://anihub.tv/videos/koi-to-producer-evol-love/1"
+            }, {
+               "date_added": "13239336329190057",
+               "guid": "d4420db2-d833-474b-bc7c-d25f651568b3",
+               "id": "36",
+               "name": "Inicio - Anihub",
+               "type": "url",
+               "url": "https://anihub.tv/"
+            }, {
+               "date_added": "13239417524681606",
+               "guid": "4fef6162-f7c5-4c34-8cf0-ec247da3c5a7",
+               "id": "38",
+               "name": "Animes em HD, FULLHD | Anihub",
+               "type": "url",
+               "url": "https://www.anihub.com.br/anime/"
+            } ],
+            "date_added": "13239335540826669",
+            "date_modified": "13239417524681606",
+            "guid": "62e33cf1-ee2d-4206-9eed-71f5d97c0ed6",
+            "id": "34",
+            "name": "Anime",
+            "type": "folder"
+         } ],
+         "date_added": "13236874318503613",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13236874318503628",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13236874318503633",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores telemóvel",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

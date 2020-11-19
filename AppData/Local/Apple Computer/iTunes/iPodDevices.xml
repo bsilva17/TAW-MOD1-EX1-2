@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Devices</key>
+	<dict>
+		<key>001454262E22802E</key>
+		<dict>
+			<key>Build Version</key>
+			<string>17C54</string>
+			<key>Connected</key>
+			<date>2019-12-26T21:41:14Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10105</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>13.3</string>
+			<key>ID</key>
+			<string>001454262E22802E</string>
+			<key>IMEI</key>
+			<string>353988107078072</string>
+			<key>IMEI2</key>
+			<string>353988106906000</string>
+			<key>MEID</key>
+			<string>35398810707807</string>
+			<key>Product Type</key>
+			<string>iPhone12,1</string>
+			<key>Region Info</key>
+			<string>QL/A</string>
+			<key>Serial Number</key>
+			<string>DNQZLFPAN735</string>
+			<key>Use Count</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
